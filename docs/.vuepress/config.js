@@ -10,7 +10,23 @@ export default {
           {
               text: 'Home',
               link: '/',
-          }
+          },
+          {
+            text: 'Resume',
+            link: '/resume',
+        },
+        {
+            text: 'Photography',
+            link: '/photography',
+        },
+        {
+            text: 'Web',
+            link: '/web',
+        },
+        {
+            text: 'Graphics',
+            link: 'graphics/',
+        }
         ],
     }),
 }
