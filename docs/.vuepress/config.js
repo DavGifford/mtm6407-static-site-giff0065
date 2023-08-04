@@ -13,19 +13,19 @@ export default {
           },
           {
             text: 'Resume',
-            link: '/resume',
+            link: '/resume/',
         },
         {
             text: 'Photography',
-            link: '/photography',
+            link: '/photography/',
         },
         {
             text: 'Web',
-            link: '/web',
+            link: '/web/',
         },
         {
             text: 'Graphics',
-            link: 'graphics/',
+            link: '/graphics/',
         }
         ],
     }),
