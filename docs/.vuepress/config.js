@@ -5,7 +5,7 @@ export default {
     title: 'My Portfolio',
     description: 'Static Site Genrator',
     theme: defaultTheme({
-        // default theme config
+        layout: 'CustomLayout',
         navbar: [
           {
               text: 'Home',
