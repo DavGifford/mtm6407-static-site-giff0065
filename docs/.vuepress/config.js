@@ -4,7 +4,7 @@ export default {
     lang: 'en-US',
     title: 'My Portfolio',
     description: 'Static Site Genrator',
-    base:'/docs/',
+    base:'/mtm6407-static-site-giff0065/',
     theme: defaultTheme({
         layout: 'CustomLayout',
         navbar: [
