@@ -1,6 +1,6 @@
 import { defaultTheme } from 'vuepress'
 
-export default {
+module.exports = {
     lang: 'en-US',
     title: 'My Portfolio',
     description: 'Static Site Genrator',
