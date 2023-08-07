@@ -5,7 +5,7 @@ title: Web
 # Web Projects
 
 ## Site Development
-![Alt Text](.vuepress/img/web/selspacebad.jpg)
+![SELspace Home Page](.vuepress/img/web/selspacebad.jpg)
 ### What I did on the project:
 * I was the team lead, so I made the agendas and talked with the client
 * Assigned Work to the team

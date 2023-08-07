@@ -5,22 +5,22 @@ title: Photography
 # My Photo Shoots
 
 ## Food
-![Alt Text](.vuepress/img/photo/food/food-1.jpg)
+![Tart](.vuepress/img/photo/food/food-1.jpg)
 Eccelefechan Tart
-![Alt Text](.vuepress/img/photo/food/food-2.jpg)
+![3 Flat Bread](.vuepress/img/photo/food/food-2.jpg)
 Flat Breads
-![Alt Text](.vuepress/img/photo/food/food-3.jpg)
+![Loaf of bread](.vuepress/img/photo/food/food-3.jpg)
 Garlic Butter Filled Bread
-![Alt Text](.vuepress/img/photo/food/food-4.jpg)
+![A Quiche](.vuepress/img/photo/food/food-4.jpg)
 A Quiche
 
 
 ## People
-![Alt Text](.vuepress/img/photo/person/Gifford_D_1.jpg)
+![a close up shoot](.vuepress/img/photo/person/Gifford_D_1.jpg)
 Ex Close-Up
-![Alt Text](.vuepress/img/photo/person/Gifford_D_4.jpg)
+![A med shoot](.vuepress/img/photo/person/Gifford_D_4.jpg)
 Med, He is gonna cross the Alps
-![Alt Text](.vuepress/img/photo/person/Gifford_D_6.jpg)
+![a med shoot under light](.vuepress/img/photo/person/Gifford_D_6.jpg)
 Med, He is enlighted 
-![Alt Text](.vuepress/img/photo/person/Gifford_D_7.jpg)
+![Doing the scream scream](.vuepress/img/photo/person/Gifford_D_7.jpg)
 Close-up, The Yell
